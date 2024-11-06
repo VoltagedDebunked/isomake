@@ -26,7 +26,7 @@ ISOMake is a fast, flexible utility for creating ISO 9660 images. This command-l
 ```bash
 git clone https://github.com/voltageddebunked/isomake.git
 cd isomake
-make install
+sudo make install
 ```
 
 <h2>🚀 Usage</h2>
